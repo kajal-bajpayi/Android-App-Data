@@ -4,6 +4,7 @@ This project analyzes the Android app market on Google Play, exploring over 10,0
 
 ### Data was scraped from Google Play and includes:
 --> apps.csv: Details of 13 features per app.
+
 --> user_reviews.csv: 100 reviews per app, with pre-processed sentiment attributes.
 
 ### Project Tasks
